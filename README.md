@@ -5,7 +5,7 @@
 ### Clone the repo
 
 ```shell
-git clone https://github.com/bryanforbes/formation-angular
+git clone https://github.com/boualihamza/formation-angular.git
 cd formation-angular
 ```
 
