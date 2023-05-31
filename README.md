@@ -18,6 +18,11 @@ npm install
 npm start
 ```
 
+### Execution
+http://localhost:4200/accueil
+
+```
+
 The `npm start` command builds (compiles TypeScript and copies assets) the application into `dist/`, watches for changes to the source files, and runs `lite-server` on port `3000`.
 
 Shut it down manually with `Ctrl-C`.
